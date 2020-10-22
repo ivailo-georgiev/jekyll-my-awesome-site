@@ -20,9 +20,9 @@
 
 title: My awesome title
 email: ivailogeorgiev.86@gmail.com
-description: This is scary but awesome
+description: This is scary, but awesome!
 destination: docs
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-my-awesome-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
